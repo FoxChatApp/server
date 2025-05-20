@@ -1,0 +1,3 @@
+{
+    "redisURL": "redis://localhost:6379"
+}
